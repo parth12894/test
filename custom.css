@@ -1,0 +1,23 @@
+.medium_Clock {
+  font-size: 70px;
+  line-height: 75px;
+}
+
+.date_Clock {
+  font-size: 60px;
+  line-height: 65px;
+}
+
+.large_Clock {
+  font-size: 185px;
+  line-height: 185px;
+}
+
+.font_size_indoor_temp{
+  font-size: 27px;
+  line-height: 32px;
+}
+
+.period_loc {
+  margin-left: -85px
+}
