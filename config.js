@@ -126,6 +126,7 @@ var config = {
             config: {
                 sensorPin: 4, // For GPIO 22
                 // See below for more Configuration Options
+		pinScheme: "WPI",
                 units: "metric",   
                 updateInterval: 3,     		//in munites  
             }
